@@ -244,6 +244,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+ #images
+ *.png
+ 
 # Windows shortcuts
 *.lnk
 
